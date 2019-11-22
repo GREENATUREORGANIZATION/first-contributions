@@ -4368,12 +4368,7 @@ Noam Taub
 - [David Tran](https://github.com/dhtran91/)
 - [Derek Cardwell](https://github.com/siestacardwell)
 - [Philipp Scherer](https://github.com/philipp-scherer)
-- [Deepak Thapa](https://github.com/dtsuper3)
-- hh534
-- [Andrew Farabaugh] (https://github.com/andrew-farabaugh)
-- Safura
-- mattv611
-- Triinu
+- [Siddharth Mehta] (https://github.com/GREENNATUREORGANIZATION)
 - [Joshua Fitzgerald](https://github.com/lopeetall)
 - [Jorge Alçada](https://github.com/jfalcada)
 - [Chris Nathan](https://github.com/clapstar)
